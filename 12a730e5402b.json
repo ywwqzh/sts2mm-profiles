@@ -1,0 +1,912 @@
+{
+  "name": "分享给杰哥",
+  "game_version": null,
+  "created_by": "ywwqzh",
+  "mods": [
+    {
+      "name": "BaseLib",
+      "version": "v3.1.3",
+      "source": null,
+      "hash": "9e950d70598706e8cc47d05a1f64bb2836b4c1bdd8d1729a1e278c268e148829",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.3_f015ef55.zip",
+      "bundle_sha256": "f015ef557d05115d2dc3c6cebaf488740a52dc63175b53a6715a363119035156"
+    },
+    {
+      "name": "BetterSpire2 Lite",
+      "version": "v1.82.3",
+      "source": null,
+      "hash": "ecc5b0a1a69304913909c513f9231888fd12be0cf266c6ca1eda8f1d1ac98e58",
+      "files": [
+        "BetterSpire2Lite\\BetterSpire2Lite.dll",
+        "BetterSpire2Lite\\BetterSpire2Lite.json",
+        "BetterSpire2Lite\\BetterSpire2_localization\\deu.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\eng.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\esp.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\fra.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\ita.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\jpn.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\kor.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\pol.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\ptb.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\README.txt",
+        "BetterSpire2Lite\\BetterSpire2_localization\\rus.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\spa.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\tha.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\tur.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\zhs.lang"
+      ],
+      "folder_name": "BetterSpire2Lite",
+      "mod_id": "BetterSpire2Lite",
+      "enabled": true,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/BetterSpire2_Lite_v1.82.3_ae78d98b.zip",
+      "bundle_sha256": "ae78d98bb7f5c7fce5e1095d64b4fd6af520b47584d0a2054d709b487e4a0aae"
+    },
+    {
+      "name": "Intent Graph",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "7316529969cde92d2b8fc13546f8b7e7591996f1f268861dbea1527663adc7ae",
+      "files": [
+        "sts2_intent_graph\\manifest.json",
+        "sts2_intent_graph\\sts2_intent_graph.dll"
+      ],
+      "folder_name": "sts2_intent_graph",
+      "mod_id": "sts2_intent_graph",
+      "enabled": true,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/Intent_Graph_v1.0.0_5627ed82.zip",
+      "bundle_sha256": "5627ed82187cf45431442b318ff6373d186d4bbfcd7b85b4e335f12d30b30a88"
+    },
+    {
+      "name": "Omniscient Crystal Sphere",
+      "version": "v0.1.1",
+      "source": null,
+      "hash": "f89f4c57854f0daf89de3cc37721936587e12c1fd3f9bffd1dabca717019df2f",
+      "files": [
+        "OmniscientCrystalSphere\\OmniscientCrystalSphere.dll",
+        "OmniscientCrystalSphere\\OmniscientCrystalSphere.json"
+      ],
+      "folder_name": "OmniscientCrystalSphere",
+      "mod_id": "OmniscientCrystalSphere",
+      "enabled": true,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/Omniscient_Crystal_Sphere_v0.1.1_3f43d29c.zip",
+      "bundle_sha256": "3f43d29c53f30e50422537d9270a5e801eb0355900556ed70c0591627c4514f1"
+    },
+    {
+      "name": "RitsuLib",
+      "version": "0.2.33",
+      "source": null,
+      "hash": "ffae0b6f3f2b658f5851f8f26093ff35d2ec07262b1d5f3361f294ba2b830c1e",
+      "files": [
+        "STS2-RitsuLib\\compat-target.txt",
+        "STS2-RitsuLib\\mod_manifest.json",
+        "STS2-RitsuLib\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\STS2-RitsuLib.xml"
+      ],
+      "folder_name": "STS2-RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.2.33_ec039f95.zip",
+      "bundle_sha256": "ec039f95622e3f21ee98c01438ee65f6cc995242fceb7e2e19b430fe786059a0"
+    },
+    {
+      "name": "WineFox",
+      "version": "1.1.19",
+      "source": null,
+      "hash": "6079e9fc4aff5e1287117e2c623e0cae936acd3d11915a90daac8136a9ba9f99",
+      "files": [
+        "STS2_WineFox\\mod_manifest.json",
+        "STS2_WineFox\\STS2_WineFox.dll",
+        "STS2_WineFox\\STS2_WineFox.pck"
+      ],
+      "folder_name": "STS2_WineFox",
+      "mod_id": "STS2_WineFox",
+      "enabled": true,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/WineFox_v1.1.19_043b8af4.zip",
+      "bundle_sha256": "043b8af4127b97f8c1d5d4d4ba11ea7ca52808354f5af10365f00a2ac73af119"
+    },
+    {
+      "name": "万象辉星[RegentFX]",
+      "version": "0.3.0",
+      "source": null,
+      "hash": "cfadb28dcdb59955b20bab96387edea1063b99f6af0dedf9fe9acd1060cff7fa",
+      "files": [
+        "RegentFX\\RegentFX.dll",
+        "RegentFX\\RegentFX.json",
+        "RegentFX\\RegentFX.pck"
+      ],
+      "folder_name": "RegentFX",
+      "mod_id": "RegentFX",
+      "enabled": true,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/RegentFX._v0.3.0_331d1d2b.zip",
+      "bundle_sha256": "331d1d2b74379711d648f16828d355f189f107f9223fccb15801de41f3929602"
+    },
+    {
+      "name": "皮皮倒带: Rewind",
+      "version": "0.26.10",
+      "source": null,
+      "hash": "e7997dafbcbb9870e6feea6577241fb6727d520c78f1e1b742ed3cfeb175f26f",
+      "files": [
+        "Rewind\\Rewind.dll",
+        "Rewind\\Rewind.json",
+        "Rewind\\Rewind.pck"
+      ],
+      "folder_name": "Rewind",
+      "mod_id": "Rewind",
+      "enabled": true,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/__Rewind_v0.26.10_723c4d4e.zip",
+      "bundle_sha256": "723c4d4e947d2a07140f790c50ce30d99a7cd51a1c8b1f485f9c19bede396e93"
+    },
+    {
+      "name": "皮皮快连: QuickLink",
+      "version": "0.9.8",
+      "source": null,
+      "hash": "ffa2675fcabb5cff4389195ddcf32a9b245337f28fb6ee6750e0b5084140e602",
+      "files": [
+        "QuickLink\\QuickLink.dll",
+        "QuickLink\\QuickLink.json",
+        "QuickLink\\QuickLink.pck"
+      ],
+      "folder_name": "QuickLink",
+      "mod_id": "QuickLink",
+      "enabled": true,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/__QuickLink_v0.9.8_817e4cb1.zip",
+      "bundle_sha256": "817e4cb155fa0dbd668bd2805564aea2febb0e389de844e9099e7037c361f481"
+    },
+    {
+      "name": "皮皮极速: SpeedX",
+      "version": "0.11.7",
+      "source": null,
+      "hash": "fe152522c9d030290c2db2eb3777ff3d7f835be5cb8c739df9c3e64e7da6384d",
+      "files": [
+        "SpeedX\\SpeedX.dll",
+        "SpeedX\\SpeedX.json",
+        "SpeedX\\SpeedX.pck"
+      ],
+      "folder_name": "SpeedX",
+      "mod_id": "SpeedX",
+      "enabled": true,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/__SpeedX_v0.11.7_6e9696c6.zip",
+      "bundle_sha256": "6e9696c677d7dbcb58f1f4f64289e952a0820b337f4bde3302022580a10372d6"
+    },
+    {
+      "name": "皮皮统计: Skada",
+      "version": "1.14.4",
+      "source": null,
+      "hash": "53967b68ed6f5cf1cbe3f7ad21f3ae1127eb4eb23386a2b51feb490487f8fadd",
+      "files": [
+        "DamageMeter\\DamageMeter.dll",
+        "DamageMeter\\DamageMeter.json",
+        "DamageMeter\\DamageMeter.pck"
+      ],
+      "folder_name": "DamageMeter",
+      "mod_id": "DamageMeter",
+      "enabled": true,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/__Skada_v1.14.4_f730afb4.zip",
+      "bundle_sha256": "f730afb4973d1991c8f79b04a7301b6a8967b1e7e730cd5366c39b2eb9f98d25"
+    },
+    {
+      "name": "皮皮配置: ModConfig",
+      "version": "0.2.3",
+      "source": null,
+      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
+      "files": [
+        "ModConfig\\ModConfig.dll",
+        "ModConfig\\ModConfig.json",
+        "ModConfig\\ModConfig.pck"
+      ],
+      "folder_name": "ModConfig",
+      "mod_id": "ModConfig",
+      "enabled": true,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_de76b0fc.zip",
+      "bundle_sha256": "de76b0fce01882cc3c4350d539ee766d470c659dc1b74b5edc8530e1dbc481c5"
+    },
+    {
+      "name": "Act4Heart",
+      "version": "1.0.8",
+      "source": null,
+      "hash": "4ac8ae73dcbe80b74bb3b31c2ea5a5020583f66f4b82b4f4f068224df5f84b45",
+      "files": [
+        "Act4Heart\\act4heart.config",
+        "Act4Heart\\Act4Heart.dll",
+        "Act4Heart\\Act4Heart.pck",
+        "Act4Heart\\mod_manifest.json"
+      ],
+      "folder_name": "Act4Heart",
+      "mod_id": "Act4Heart",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/Act4Heart_v1.0.8_b8ac39ae.zip",
+      "bundle_sha256": "b8ac39aebff1390f536af82937f106f388612d9452650aa0aa655793fce3c0b4"
+    },
+    {
+      "name": "Aeonglass Feminization",
+      "version": "1.3.0",
+      "source": null,
+      "hash": "67bd7ae8ddc69aeb5c42c2f4d04b1c5cb4fc8d88ab45005efcb2815e3fecf83b",
+      "files": [
+        "Aeonglass Feminization1.2\\Aeonglass Feminization.json",
+        "Aeonglass Feminization1.2\\Aeonglass Feminization.pck"
+      ],
+      "folder_name": "Aeonglass Feminization1.2",
+      "mod_id": "Aeonglass Feminization",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/Aeonglass_Feminization_v1.3.0_6f913ee4.zip",
+      "bundle_sha256": "6f913ee4bf472b1fbbc62c9be2a42455189ca3d040b202a8e3e71bb197fb6e5a"
+    },
+    {
+      "name": "AiACard",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "cac641d91ee3142b8e3eb2a671dbea3be1952adc968575b2f2f3aa4a3c991288",
+      "files": [
+        "STS2_AiACard\\mod_manifest.json",
+        "STS2_AiACard\\STS2_AiACard.dll",
+        "STS2_AiACard\\STS2_AiACard.pck"
+      ],
+      "folder_name": "STS2_AiACard",
+      "mod_id": "STS2_AiACard",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/AiACard_v0.1.0_91bad1d6.zip",
+      "bundle_sha256": "91bad1d61bda1ba61be2cc90cd9d42c17dce856fdb0f5e7a9265fc96d4de8815"
+    },
+    {
+      "name": "AiACard-Multiplayer",
+      "version": "0.1.1",
+      "source": null,
+      "hash": "be98c5e1e05a18f4ce3a31e3245bc87eb5d27160c64fe5ca84653b06fe0a3bb9",
+      "files": [
+        "STS2_AiACard_Multiplayer\\mod_manifest.json",
+        "STS2_AiACard_Multiplayer\\STS2-RitsuLib.dll",
+        "STS2_AiACard_Multiplayer\\STS2_AiACard_Multiplayer.dll",
+        "STS2_AiACard_Multiplayer\\STS2_AiACard_Multiplayer.pck"
+      ],
+      "folder_name": "STS2_AiACard_Multiplayer",
+      "mod_id": "STS2_AiACard_Multiplayer",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/AiACard-Multiplayer_v0.1.1_9185c65a.zip",
+      "bundle_sha256": "9185c65a5829718ecaf227a79832685943e13d6cc26a14e5203131e962638d3c"
+    },
+    {
+      "name": "AncientWaifus",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "aaed46f9a90c9d8db9e2b9976f924bf0df75ff3f727b27825bf8f0738c16e1c7",
+      "files": [
+        "AncientWaifus\\AncientWaifus.dll",
+        "AncientWaifus\\AncientWaifus.json",
+        "AncientWaifus\\AncientWaifus.pck"
+      ],
+      "folder_name": "AncientWaifus",
+      "mod_id": "AncientWaifus",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/AncientWaifus_v0.0.1_e78678f4.zip",
+      "bundle_sha256": "e78678f4f2aa3c712cb0dcb52c92863771a5c8c7b70e27a51985d09982b223f4"
+    },
+    {
+      "name": "AnimeWaifuSilent",
+      "version": "v1.1.0",
+      "source": null,
+      "hash": "59e8a6371c5568e80a2a77fa7641d298259525a0735c71da6540d2ee616cd9ff",
+      "files": [
+        "AnimeWaifuSilent\\AnimeWaifuSilent.dll",
+        "AnimeWaifuSilent\\AnimeWaifuSilent.json",
+        "AnimeWaifuSilent\\AnimeWaifuSilent.pck"
+      ],
+      "folder_name": "AnimeWaifuSilent",
+      "mod_id": "AnimeWaifuSilent",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/AnimeWaifuSilent_v1.1.0_12cce043.zip",
+      "bundle_sha256": "12cce0430d9461c03162707c81e0198044796d05b2c0ff4be73b77d2b2ca9560"
+    },
+    {
+      "name": "Booba Necrobinder Mod",
+      "version": "v1.0.7",
+      "source": null,
+      "hash": "9b95a3c4635a5e2b51e963314435d0f8cf35f1ced22b213d87e82797f533cde0",
+      "files": [
+        "Booba-Necrobinder-Mod\\Booba-Necrobinder-Mod.dll",
+        "Booba-Necrobinder-Mod\\Booba-Necrobinder-Mod.json",
+        "Booba-Necrobinder-Mod\\Booba-Necrobinder-Mod.pck"
+      ],
+      "folder_name": "Booba-Necrobinder-Mod",
+      "mod_id": "Booba-Necrobinder-Mod",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/Booba_Necrobinder_Mod_v1.0.7_fe232892.zip",
+      "bundle_sha256": "fe232892689b95a96f97f5d64e38651c55d26235f4a6725d2799e7a956f2ce4a"
+    },
+    {
+      "name": "Calypso'sHappyHour / 卡里普索的欢乐时光",
+      "version": "v1.1.4",
+      "source": null,
+      "hash": "c2a77dec60407d416112b49d2db6f497884f810dcd221f689c15ce1701e11fef",
+      "files": [
+        "CalypsosHappyHour(For v0.104.0)-156-1-1-6-1777212907 (1)\\CalypsosHappyHour.dll",
+        "CalypsosHappyHour(For v0.104.0)-156-1-1-6-1777212907 (1)\\CalypsosHappyHour.json",
+        "CalypsosHappyHour(For v0.104.0)-156-1-1-6-1777212907 (1)\\CalypsosHappyHour.pck",
+        "CalypsosHappyHour(For v0.104.0)-156-1-1-6-1777212907 (1)\\card_weights.cfg"
+      ],
+      "folder_name": "CalypsosHappyHour(For v0.104.0)-156-1-1-6-1777212907 (1)",
+      "mod_id": "CalypsosHappyHour",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/Calypso.sHappyHour___._v1.1.4_1ae89bd7.zip",
+      "bundle_sha256": "1ae89bd7117b30dada606ab0983c53e107fcf4eacdb100b9a6e9fe39bba60001"
+    },
+    {
+      "name": "Card Editor",
+      "version": "5.4",
+      "source": null,
+      "hash": "f9f71dbb21b26e6b3fe00f82249ad4397eda9f71f5acfa92e276574fe933af09",
+      "files": [
+        "betaCardEditoer\\assets\\back_button_base_texture.png",
+        "betaCardEditoer\\assets\\back_button_base_texture.png.import",
+        "betaCardEditoer\\assets\\back_button_outline_texture.png",
+        "betaCardEditoer\\assets\\back_button_outline_texture.png.import",
+        "betaCardEditoer\\assets\\base_deck_button_asset.tscn",
+        "betaCardEditoer\\assets\\base_deck_button_outline_override.png",
+        "betaCardEditoer\\assets\\base_deck_button_outline_override.png.import",
+        "betaCardEditoer\\assets\\base_deck_button_texture_override.png",
+        "betaCardEditoer\\assets\\base_deck_button_texture_override.png.import",
+        "betaCardEditoer\\assets\\compressed_0.png",
+        "betaCardEditoer\\assets\\compressed_0.png.import",
+        "betaCardEditoer\\assets\\hsv.gdshader",
+        "betaCardEditoer\\assets\\hsv.gdshader.uid",
+        "betaCardEditoer\\assets\\kreon_bold.ttf",
+        "betaCardEditoer\\assets\\kreon_bold.ttf.import",
+        "betaCardEditoer\\assets\\README.md",
+        "betaCardEditoer\\assets\\Redtail 3.png",
+        "betaCardEditoer\\assets\\Redtail 3.png.import",
+        "betaCardEditoer\\assets\\RedTail.png",
+        "betaCardEditoer\\assets\\RedTail.png.import",
+        "betaCardEditoer\\assets\\RedTAIL2.png",
+        "betaCardEditoer\\assets\\RedTAIL2.png.import",
+        "betaCardEditoer\\assets\\ui_atlas_1.png",
+        "betaCardEditoer\\assets\\ui_atlas_1.png.import",
+        "betaCardEditoer\\assets\\White Background 3.png",
+        "betaCardEditoer\\assets\\White Background 3.png.import",
+        "betaCardEditoer\\assets\\White background.png",
+        "betaCardEditoer\\assets\\White background.png.import",
+        "betaCardEditoer\\assets\\White3.png",
+        "betaCardEditoer\\assets\\White3.png.import",
+        "betaCardEditoer\\card art\\put_your_images_here.txt",
+        "betaCardEditoer\\card_editor.dll",
+        "betaCardEditoer\\card_editor.json",
+        "betaCardEditoer\\card_editor.pck",
+        "betaCardEditoer\\card_editor.pdb",
+        "betaCardEditoer\\card_editor_settings.txt",
+        "betaCardEditoer\\custom icons\\README.txt",
+        "betaCardEditoer\\localization\\eng\\cards.loc",
+        "betaCardEditoer\\localization\\eng\\extensions.loc",
+        "betaCardEditoer\\localization\\eng\\settings_ui.loc",
+        "betaCardEditoer\\localization\\kor\\cards.loc",
+        "betaCardEditoer\\localization\\kor\\extensions.loc",
+        "betaCardEditoer\\localization\\kor\\settings_ui.loc",
+        "betaCardEditoer\\localization\\zhs\\cards.loc",
+        "betaCardEditoer\\localization\\zhs\\extensions.loc",
+        "betaCardEditoer\\localization\\zhs\\settings_ui.loc",
+        "betaCardEditoer\\README.txt",
+        "betaCardEditoer\\TUTORIAL.txt",
+        "betaCardEditoer\\TUTORIAL_kor.txt",
+        "betaCardEditoer\\TUTORIAL_zhs.txt"
+      ],
+      "folder_name": "betaCardEditoer",
+      "mod_id": "card_editor",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/Card_Editor_v5.4_ad941d05.zip",
+      "bundle_sha256": "ad941d0511cd2764cf7b11284db17278224b9f58586ecf8b33f112eb5d3d6bc2"
+    },
+    {
+      "name": "Card Editor",
+      "version": "5.4",
+      "source": null,
+      "hash": "7d7ed6505ce017f8a555c9656d0105fc4e80eedec9ff9e1d9883e7adba4f7187",
+      "files": [
+        "card_editor\\assets\\back_button_base_texture.png",
+        "card_editor\\assets\\back_button_outline_texture.png",
+        "card_editor\\assets\\base_deck_button_asset.tscn",
+        "card_editor\\assets\\base_deck_button_outline_override.png",
+        "card_editor\\assets\\base_deck_button_texture_override.png",
+        "card_editor\\assets\\compressed_0.png",
+        "card_editor\\assets\\hsv.gdshader",
+        "card_editor\\assets\\kreon_bold.ttf",
+        "card_editor\\assets\\README.md",
+        "card_editor\\assets\\Redtail 3.png",
+        "card_editor\\assets\\RedTail.png",
+        "card_editor\\assets\\RedTAIL2.png",
+        "card_editor\\assets\\ui_atlas_1.png",
+        "card_editor\\assets\\White Background 3.png",
+        "card_editor\\assets\\White background.png",
+        "card_editor\\assets\\White3.png",
+        "card_editor\\card art\\put_your_images_here.txt",
+        "card_editor\\card_editor.dll",
+        "card_editor\\card_editor.json",
+        "card_editor\\card_editor.pck",
+        "card_editor\\card_editor.pdb",
+        "card_editor\\card_editor_settings.txt",
+        "card_editor\\custom icons\\README.txt",
+        "card_editor\\localization\\eng\\cards.loc",
+        "card_editor\\localization\\eng\\extensions.loc",
+        "card_editor\\localization\\eng\\settings_ui.loc",
+        "card_editor\\localization\\extensions.loc",
+        "card_editor\\localization\\kor\\cards.loc",
+        "card_editor\\localization\\kor\\extensions.loc",
+        "card_editor\\localization\\kor\\settings_ui.loc",
+        "card_editor\\localization\\zhs\\cards.loc",
+        "card_editor\\localization\\zhs\\extensions.loc",
+        "card_editor\\localization\\zhs\\settings_ui.loc",
+        "card_editor\\README.txt",
+        "card_editor\\TUTORIAL.txt",
+        "card_editor\\TUTORIAL_kor.txt",
+        "card_editor\\TUTORIAL_zhs.txt"
+      ],
+      "folder_name": "card_editor",
+      "mod_id": "card_editor",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/Card_Editor_v5.4_3bd55be3.zip",
+      "bundle_sha256": "3bd55be33a132d5457ec22af4faad45899e1c05a503248708ea37b3a763f4899"
+    },
+    {
+      "name": "CardArtEditor",
+      "version": "v1.3.4",
+      "source": null,
+      "hash": "74250a613a1d441719c7c17976a484a544347c61fe8eca03fca50e02c8ae99b5",
+      "files": [
+        "CardArtEditor\\CardArtEditor.dll",
+        "CardArtEditor\\CardArtEditor.json",
+        "CardArtEditor\\CardArtEditor.pck",
+        "CardArtEditor\\config\\audio_settings.json",
+        "CardArtEditor\\config\\card_art_editor_settings.json",
+        "CardArtEditor\\config\\card_art_history.json",
+        "CardArtEditor\\config\\enchant_card_audio_combat_observer.json",
+        "CardArtEditor\\config\\gif_animation_overrides.json",
+        "CardArtEditor\\config\\gif_animation_whitelist.json",
+        "CardArtEditor\\config\\project_export_preferences.json",
+        "CardArtEditor\\config\\random_config.json",
+        "CardArtEditor\\mod\\CardArtModExporter.deps.json",
+        "CardArtEditor\\mod\\CardArtModExporter.dll",
+        "CardArtEditor\\mod\\CardArtModExporter.exe",
+        "CardArtEditor\\mod\\CardArtModExporter.pdb",
+        "CardArtEditor\\mod\\CardArtModExporter.runtimeconfig.json",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0000.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0001.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0002.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0003.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0004.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0005.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0006.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0007.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0008.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0009.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0010.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0011.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0012.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0013.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0014.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0015.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0016.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0017.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0018.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0019.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0020.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0021.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0022.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0023.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0024.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0025.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0026.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0027.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0028.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0029.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0030.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0031.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0032.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0033.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0034.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0035.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0036.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0037.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0038.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0039.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0040.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0041.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0042.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0043.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0044.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0045.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0046.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0047.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0048.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0049.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0050.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0051.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0052.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0053.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0054.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0055.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0056.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0057.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0058.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0059.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0060.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0061.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0062.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0063.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0064.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0065.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0066.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0067.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0068.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0069.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0070.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0071.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0072.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0073.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0074.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\frames\\frame_0075.png",
+        "CardArtEditor\\save\\gif_cache\\s8koDc_4fede614fc450993c1090679\\manifest.json",
+        "CardArtEditor\\SixLabors.ImageSharp.dll"
+      ],
+      "folder_name": "CardArtEditor",
+      "mod_id": "CardArtEditor",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/CardArtEditor_v1.3.4_ad703f52.zip",
+      "bundle_sha256": "ad703f524b6d548ad6fc2cb6241154ff7e83641775ddfd281f49b3173f469bd2"
+    },
+    {
+      "name": "DefectSkin_AD",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "7a484b0b6eaa8c2ae1ddd79e86565e2d2f9622b039706c0bdc938b20c6c5be82",
+      "files": [
+        "DefectSkin_AD\\DefectSkin_AD.json",
+        "DefectSkin_AD\\DefectSkin_AD.pck"
+      ],
+      "folder_name": "DefectSkin_AD",
+      "mod_id": "DefectSkin_AD",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/DefectSkin_AD_v0.1.0_b0d78ff5.zip",
+      "bundle_sha256": "b0d78ff5c3f620fc9fa5854597f59bd10be9a493d3bea75acfa0b3544cdc7ee1"
+    },
+    {
+      "name": "Forked Road",
+      "version": "1.0.2",
+      "source": null,
+      "hash": "2c9981d06dae6c3c3a1a208744996b039178908c3c21527e040737ca24c47644",
+      "files": [
+        "ForkedRoad-1.0.9\\ForkedRoad.dll",
+        "ForkedRoad-1.0.9\\ForkedRoad.json",
+        "ForkedRoad-1.0.9\\ForkedRoad.pdb",
+        "ForkedRoad-1.0.9\\LICENSE"
+      ],
+      "folder_name": "ForkedRoad-1.0.9",
+      "mod_id": "ForkedRoad",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/Forked_Road_v1.0.2_6dbd93e3.zip",
+      "bundle_sha256": "6dbd93e39172ad1dcbfdedeadf06ea036f7b76a254ad0cb6a68a9a2fcb4a0a19"
+    },
+    {
+      "name": "KaguyaRegentMSGKSkin",
+      "version": "v0.2.3",
+      "source": null,
+      "hash": "ce9b5473d9040e953f36f10e1e635cf3544ed2619a87881c44fc8fbac21d8cdb",
+      "files": [
+        "RegentSkinMod\\KaguyaRegentMSGKSkin.dll",
+        "RegentSkinMod\\KaguyaRegentMSGKSkin.json",
+        "RegentSkinMod\\KaguyaRegentMSGKSkin.pck"
+      ],
+      "folder_name": "RegentSkinMod",
+      "mod_id": "KaguyaRegentMSGKSkin",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/KaguyaRegentMSGKSkin_v0.2.3_c174c77e.zip",
+      "bundle_sha256": "c174c77ea6292dd755488b54fb96771190d07c70d7f02411e4dfdeae54945922"
+    },
+    {
+      "name": "Merchant2CuteII",
+      "version": "v1.4.0",
+      "source": null,
+      "hash": "bc033a114fc87261440889e5b71140cfb33a62026eabcc4f8298e31edb5ca8ca",
+      "files": [
+        "Merchant2CuteII\\Merchant2CuteII.dll",
+        "Merchant2CuteII\\Merchant2CuteII.json",
+        "Merchant2CuteII\\Merchant2CuteII.pck"
+      ],
+      "folder_name": "Merchant2CuteII",
+      "mod_id": "Merchant2CuteII",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/Merchant2CuteII_v1.4.0_4785862f.zip",
+      "bundle_sha256": "4785862f5133cd3d5fb118d12b272f6162638179e4dfdeacc3d4a5cba5812373"
+    },
+    {
+      "name": "Mesugaki_Regent",
+      "version": "0.1.1",
+      "source": null,
+      "hash": "ffefe011aebe19ae759c0750181bf4bc53157c3706b292230d46e03c229a0fd0",
+      "files": [
+        "Mesugaki Regent\\Mesugaki.dll",
+        "Mesugaki Regent\\Mesugaki.json",
+        "Mesugaki Regent\\Mesugaki.pck"
+      ],
+      "folder_name": "Mesugaki Regent",
+      "mod_id": "Mesugaki",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/Mesugaki_Regent_v0.1.1_9ae34a09.zip",
+      "bundle_sha256": "9ae34a09af67662bcaa99b2a10e9ea5e5ab6aa85af1132f065af0be3b5d23267"
+    },
+    {
+      "name": "modpack_preset",
+      "version": "0.0.0",
+      "source": null,
+      "hash": "36989a1e37c8da076f7337f5233c21dfbb5b517478f55040bf011665024d45ad",
+      "files": [
+        "Sts2SkinManager\\Sts2SkinManager\\LICENSE",
+        "Sts2SkinManager\\Sts2SkinManager\\modpack_preset.json",
+        "Sts2SkinManager\\Sts2SkinManager\\README.ko.md",
+        "Sts2SkinManager\\Sts2SkinManager\\README.md",
+        "Sts2SkinManager\\Sts2SkinManager\\Sts2SkinManager.dll",
+        "Sts2SkinManager\\Sts2SkinManager\\Sts2SkinManager.json"
+      ],
+      "folder_name": "Sts2SkinManager",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/modpack_preset_v0.0.0_23728a89.zip",
+      "bundle_sha256": "23728a89f7d90439ef5ddd782dfe330363fe4e7c882eacb50bc94f14a6e87aa9"
+    },
+    {
+      "name": "Notira",
+      "version": "0.0.2",
+      "source": null,
+      "hash": "036e97aed38322abdeadb6e3fdbb6ea603f5ab59e5184afbc4157a919a079fad",
+      "files": [
+        "Notira\\Notira.dll",
+        "Notira\\Notira.json",
+        "Notira\\notira.pck"
+      ],
+      "folder_name": "Notira",
+      "mod_id": "Notira",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/Notira_v0.0.2_5403ebd8.zip",
+      "bundle_sha256": "5403ebd8329d4e78c492bf28d2887d89e48952a3e52a110138011d6d49fb643b"
+    },
+    {
+      "name": "Powers Persist",
+      "version": "v0.1.0",
+      "source": null,
+      "hash": "47be5ffb60eee9146cc11ca2c4cd823eb71fc0d58366968dbf1843d9b0f1f0f7",
+      "files": [
+        "PowersPersist\\LICENSE",
+        "PowersPersist\\PowersPersist.dll",
+        "PowersPersist\\PowersPersist.json",
+        "PowersPersist\\README.md"
+      ],
+      "folder_name": "PowersPersist",
+      "mod_id": "PowersPersist",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/Powers_Persist_v0.1.0_5cc8987d.zip",
+      "bundle_sha256": "5cc8987ded041cdb94bd218fb919a174720a84dd76a41c936978aae633930cf0"
+    },
+    {
+      "name": "RegentCardsAnimeRework",
+      "version": "v0.5.1",
+      "source": null,
+      "hash": "1882f601ec0ee6231e3ca578c51b206ea1b8f609be559f5d199c4986d4cfe2be",
+      "files": [
+        "RegentCardsAnimeRework\\RegentCardsAnimeRework.dll",
+        "RegentCardsAnimeRework\\RegentCardsAnimeRework.json",
+        "RegentCardsAnimeRework\\RegentCardsAnimeRework.pck"
+      ],
+      "folder_name": "RegentCardsAnimeRework",
+      "mod_id": "RegentCardsAnimeRework",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/RegentCardsAnimeRework_v0.5.1_5e8fa1cc.zip",
+      "bundle_sha256": "5e8fa1cc6442c70bda58677c5bce349699aa50d0073933e62d10d92f5395b60a"
+    },
+    {
+      "name": "Remove Multiplayer Player Limit",
+      "version": "0.0.5",
+      "source": null,
+      "hash": "b0878160c5a71eba74b5531064267fd57f8f67bb00b29dedc2475239a3662dfd",
+      "files": [
+        "RemoveMultiplayerPlayerLimit\\mod_manifest.json",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.dll",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.json",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.pck"
+      ],
+      "folder_name": "RemoveMultiplayerPlayerLimit",
+      "mod_id": "RemoveMultiplayerPlayerLimit",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/Remove_Multiplayer_Player_Limit_v0.0.5_c4e4fa4f.zip",
+      "bundle_sha256": "c4e4fa4f483c9a427ec1e5bc5ed35cbeb95f7ccf652a9dd376f09d2c768185d5"
+    },
+    {
+      "name": "RitsuLib (STS2 0.103.2 compat)",
+      "version": "0.2.25",
+      "source": null,
+      "hash": "a4579a4b1cb8d9968e903ce4b32eb315caafd4fb1bedca5dbb317ac0dc1ef708",
+      "files": [
+        "STS2.RitsuLib.Compat.0.103.2-137-0-2-25-1778072467\\compat-target.txt",
+        "STS2.RitsuLib.Compat.0.103.2-137-0-2-25-1778072467\\mod_manifest.json",
+        "STS2.RitsuLib.Compat.0.103.2-137-0-2-25-1778072467\\STS2-RitsuLib.dll",
+        "STS2.RitsuLib.Compat.0.103.2-137-0-2-25-1778072467\\STS2-RitsuLib.pdb",
+        "STS2.RitsuLib.Compat.0.103.2-137-0-2-25-1778072467\\STS2-RitsuLib.xml"
+      ],
+      "folder_name": "STS2.RitsuLib.Compat.0.103.2-137-0-2-25-1778072467",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_103_2_compat._v0.2.25_e3546f45.zip",
+      "bundle_sha256": "e3546f45bad6e3b33c0f96b23b1178922d7d1f61591d5cd15138112e7074dd19"
+    },
+    {
+      "name": "STS2 God Mod",
+      "version": "1.6.1",
+      "source": null,
+      "hash": "6d72484403f86d03884a070ba88010fdb94a34f372addbebe70e906237868c66",
+      "files": [
+        "sts2_god_mod\\mod_image.png",
+        "sts2_god_mod\\sts2_god_mod.dll",
+        "sts2_god_mod\\sts2_god_mod.json",
+        "sts2_god_mod\\sts2_god_mod.log",
+        "sts2_god_mod\\sts2_god_mod.pck",
+        "sts2_god_mod\\sts2_god_mod.previous.log"
+      ],
+      "folder_name": "sts2_god_mod",
+      "mod_id": "sts2_god_mod",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/STS2_God_Mod_v1.6.1_f61ee92f.zip",
+      "bundle_sha256": "f61ee92f4592eb3e3381a25cdc9f09d72c8c8227acbf11f671f6e44d5203e93e"
+    },
+    {
+      "name": "VoiceMod",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "c7eb0f219e26c4d6e61cbfe252653b8d754dd2f9de7b39933fd55a9cbcd2b285",
+      "files": [
+        "regentvoicemod\\mod_manifest.json",
+        "regentvoicemod\\VoiceMod.dll",
+        "regentvoicemod\\VoiceMod.pck"
+      ],
+      "folder_name": "regentvoicemod",
+      "mod_id": "voicemod",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/VoiceMod_v1.0.0_b7103f7c.zip",
+      "bundle_sha256": "b7103f7cd814769da6b5ba6364e67dd353bc5a1845571ae7c9395447f7675622"
+    },
+    {
+      "name": "史上最好的猎手卡牌扩展 | Ultimate Silent Card Expansion",
+      "version": "0.1.1",
+      "source": null,
+      "hash": "90660c633283ddf068dc70cd6116b600b41c683acb84149fcefadb0c8ca95614",
+      "files": [
+        "UltimateSilentCardExpansion\\UltimateSilentCardExpansion.dll",
+        "UltimateSilentCardExpansion\\UltimateSilentCardExpansion.json",
+        "UltimateSilentCardExpansion\\UltimateSilentCardExpansion.pck"
+      ],
+      "folder_name": "UltimateSilentCardExpansion",
+      "mod_id": "UltimateSilentCardExpansion",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/___Ultimate_Silent_Card_Expansion_v0.1.1_a1642f14.zip",
+      "bundle_sha256": "a1642f145e537afea58dde1e305e82882e2d2d0c1bd843418ec560cede74a771"
+    },
+    {
+      "name": "尖塔储君卡图娘化",
+      "version": "v0.6.0",
+      "source": null,
+      "hash": "c71de4b1f39b2176343c14b2f6f10f431f9f2ebc1c0d52fb27157a2cb6c92035",
+      "files": [
+        "RegentFemPortraits\\RegentFemPortraits.dll",
+        "RegentFemPortraits\\RegentFemPortraits.json",
+        "RegentFemPortraits\\RegentFemPortraits.pck"
+      ],
+      "folder_name": "RegentFemPortraits",
+      "mod_id": "RegentFemPortraits",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/_v0.6.0_ac999981.zip",
+      "bundle_sha256": "ac99998179e56bf6155a8480435b8bdd8480ad5b6b46148455bb2155a3f6b5c9"
+    },
+    {
+      "name": "杀戮尖塔2战士全卡面娘化",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "ec4046100d39b3a81d0f617cdfc2789145c7e3f53971a46c149653f7b613e8bf",
+      "files": [
+        "战士娘卡面\\杀戮尖塔2战士全卡面娘化.dll",
+        "战士娘卡面\\杀戮尖塔2战士全卡面娘化.json",
+        "战士娘卡面\\杀戮尖塔2战士全卡面娘化.pck"
+      ],
+      "folder_name": "战士娘卡面",
+      "mod_id": "杀戮尖塔2战士全卡面娘化",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/2._v1.0.0_8fcd1fb6.zip",
+      "bundle_sha256": "8fcd1fb693f5484c3be504a708a482a4983f5646742082ff64152183eb4919a5"
+    },
+    {
+      "name": "第三幕必有铸门者",
+      "version": "1.0.1",
+      "source": null,
+      "hash": "726ba14d5ef86649412509cc91e734ce6761be32af115af7faa1b0cd9960500f",
+      "files": [
+        "Act3GuaranteeDoormaker\\Act3GuaranteeDoormaker.dll",
+        "Act3GuaranteeDoormaker\\Act3GuaranteeDoormaker.pck",
+        "Act3GuaranteeDoormaker\\mod_manifest.json"
+      ],
+      "folder_name": "Act3GuaranteeDoormaker",
+      "mod_id": "Act3GuaranteeDoormaker",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/_v1.0.1_81f13950.zip",
+      "bundle_sha256": "81f13950bb15e9553ea4838c3eb2d320911ca135b42f1142798658b30855362b"
+    },
+    {
+      "name": "遗物大师",
+      "version": "v1.0.0",
+      "source": null,
+      "hash": "365a22d7b9a992d8c291607c969e3b69c9005225689c499937f86aa3b8250943",
+      "files": [
+        "relicMaster\\relicMaster.dll",
+        "relicMaster\\relicMaster.json",
+        "relicMaster\\relicMaster.pck"
+      ],
+      "folder_name": "relicMaster",
+      "mod_id": "relicMaster",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/_v1.0.0_4707668b.zip",
+      "bundle_sha256": "4707668b8af3f9004f0d8b5442976f02fb1da46089ae3f8437231d3dfcec1d15"
+    },
+    {
+      "name": "遗物环绕",
+      "version": "v1.0.0",
+      "source": null,
+      "hash": "dc23c1d92aadce300fc7cd4c9745e70a0473a574ef9f94fd835865589afd27e5",
+      "files": [
+        "relicOrbitmod\\relicOrbitMod.dll",
+        "relicOrbitmod\\relicOrbitMod.json",
+        "relicOrbitmod\\relicOrbitMod.pck"
+      ],
+      "folder_name": "relicOrbitmod",
+      "mod_id": "relicOrbitMod",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/_v1.0.0_3382fd5f.zip",
+      "bundle_sha256": "3382fd5f14cc45095d601a8f6124148012e1df7fc7d00dfb2d0b1b9ec38f4c5e"
+    },
+    {
+      "name": "随机卡牌",
+      "version": "v0.1.1",
+      "source": null,
+      "hash": "430c9dd50d3582fad68f35236b4ebdf65eb5750d85e3ed2af03555c2c0cb14ad",
+      "files": [
+        "随机卡牌\\CustomMod.dll",
+        "随机卡牌\\CustomMod.json",
+        "随机卡牌\\CustomMod.pck"
+      ],
+      "folder_name": "随机卡牌",
+      "mod_id": "CustomMod",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/_v0.1.1_45deb0c5.zip",
+      "bundle_sha256": "45deb0c5b562ac08ef793a4c40650c3cf7f63cb038d98034a229816675643018"
+    },
+    {
+      "name": "黑夜统治",
+      "version": "1.0",
+      "source": null,
+      "hash": "3216990eaa32336acd8eba1a40d8ede2a1690cfb344f1da9ffa04f89889c9d66",
+      "files": [
+        "nightreign\\map\\map.json",
+        "nightreign\\map\\map_01.json",
+        "nightreign\\nightreign.dll",
+        "nightreign\\nightreign.json"
+      ],
+      "folder_name": "nightreign",
+      "mod_id": "nightreign",
+      "enabled": false,
+      "bundle_url": "https://github.com/ywwqzh/sts2mm-profiles/releases/download/bundles/_v1.0_88f3fed3.zip",
+      "bundle_sha256": "88f3fed3c205749d48541ec4e819ab07ded72a385eafc286ec43ee169356156c"
+    }
+  ],
+  "created_at": "2026-05-18T15:32:10.915304Z",
+  "updated_at": "2026-05-18T15:33:37.749477600Z",
+  "public": false
+}
